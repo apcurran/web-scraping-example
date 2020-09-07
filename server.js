@@ -1,5 +1,7 @@
 "use strict";
 
+// Note: This is all publicly available information, there is no scraping or use of private data in any way.
+
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 
